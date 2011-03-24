@@ -1,4 +1,5 @@
 // TODO: SECURITY OF USER INPUT
+// TODO: ADD CONNECT AND NODEUNIT
 
 var mapnik = require('mapnik')
   , mercator = require('mapnik/sphericalmercator')
