@@ -39,11 +39,12 @@ module.exports.server = http.createServer(function(req, res) {
 
       // ENSURE ALL PARAMS ARE PASSED  
       if (query &&
-          query.x !== undefined &&
-          query.y !== undefined &&
-          query.z !== undefined &&
-          query.sql !== undefined &&
-          query.style !== undefined
+          query.user_id !== undefined &&
+          query.x       !== undefined &&
+          query.y       !== undefined &&
+          query.z       !== undefined &&
+          query.sql     !== undefined &&
+          query.style   !== undefined
           ) {
     
           // CALCULATE BBOX FOR RENDER STEP
