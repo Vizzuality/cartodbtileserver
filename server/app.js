@@ -90,7 +90,7 @@ module.exports = http.createServer(function(req, res) {
               map.add_layer(layer);
               
               // show map in terminal with toString()
-              console.log(map.toString());
+              //console.log(map.toString());
           }
           catch (err) {
               res.end(err.message);
