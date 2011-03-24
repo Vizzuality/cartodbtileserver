@@ -36,7 +36,8 @@ module.exports.server = http.createServer(function(req, res) {
             res.end('Not found: ' + req.url);      
       }
   } else {
-        
+
+      // ENSURE ALL PARAMS ARE PASSED  
       if (query &&
           query.x !== undefined &&
           query.y !== undefined &&
@@ -45,30 +46,50 @@ module.exports.server = http.createServer(function(req, res) {
           query.style !== undefined
           ) {
     
+          // CALCULATE BBOX FOR RENDER STEP
           var bbox = mercator.xyz_to_envelope(parseInt(query.x),
                                               parseInt(query.y),
                                               parseInt(query.z), false);
+          
+          // CREATE MAP
           var map = new mapnik.Map(256, 256, mercator.srs);
+          
+          // SET ?
           map.buffer_size(50);
+          
+          // CREATE LAYER TO RENDER
           var layer = new mapnik.Layer('tile', mercator.srs);
+          
           try {
+              // SET TABLE NAME
               settings.postgis.table = unescape(query.sql);
+
+              // CREATE MAPNIK DATASOURCE
               var postgis = new mapnik.Datasource(settings.postgis);
               layer.datasource = postgis;
+              
+              // LOAD STYLE FROM QUERY FLAG
               styles = [query.style];
               map.load(path.join(settings.styles, query.style + '.xml'));
-              // labels
+              
+              // ADD LABEL STYLES BY DEFAULT
               styles.push('text');
               map.load(path.join(settings.styles, 'text.xml'));
+              
+              // ADD STYLES TO LAYER
               layer.styles = styles;
+              
+              // ADD LAYER TO MAP
               map.add_layer(layer);
+              
               // show map in terminal with toString()
-              //console.log(map.toString());
+              console.log(map.toString());
           }
           catch (err) {
               res.end(err.message);
           }
     
+          // RENDER MAP AS PNG
           map.render(bbox, 'png', function(err, buffer) {
               if (err) {
                   res.end(err.message);
