@@ -17,11 +17,11 @@ map.add(po.image()
     .hosts(['1', '2', '3', '4'])));
 
 
-var tile_url = '?x={X}&y={Y}&z={Z}';
+var tile_url = '/tiles/{X}/{Y}/{Z}';
 
 // local tile server
 var layer = po.image()
-    .url(po.url(tile_url + '&sql=madrid_bars&style=point&user_id=1'));
+              .url(po.url(tile_url + '/1/madrid_bars/point'));
 
 map.add(layer);
 
@@ -43,7 +43,7 @@ var update_tiles = function() {
      style = 'polygon';
   if (document.forms[0][2].checked)
      style = 'line';
-  layer.url(po.url(tile_url + '&sql=' + escape(sql) + '&style=' + style + '&user_id=1'))
+  layer.url(po.url(tile_url + '/1/' + escape(sql) + '/' + style))
      .reload();
   console.log(sql);
 };

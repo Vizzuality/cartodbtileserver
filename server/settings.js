@@ -2,8 +2,9 @@ var path = require('path');
 module.exports.styles = path.join(__dirname,'styles');
 
 // GENERAL APP CONSTANTS
-module.exports.environment = 'development'
-module.exports.db_base_name   = 'cartodb_dev_user_{user_id}_db'
+module.exports.environment  = 'development';
+module.exports.db_base_name = 'cartodb_dev_user_{user_id}_db';
+module.exports.oneDay       = 86400000;
 
 // MAPNIK OPTIONS
 module.exports.postgis = {

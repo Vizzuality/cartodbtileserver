@@ -3,12 +3,12 @@
 
 ## Depends
 
-* NodeJS > 0.2.4
+* NodeJS > 0.4.3
 * Mapnik (latest trunk >r2397)
-* Npm 
-* Cluster  
 * Node-mapnik
-* Connect
+* Npm 
+* Cluster > 0.4.2 
+* Connect > 1.1.4
 
 ## for Development
 

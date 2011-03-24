@@ -1,115 +1,89 @@
 // TODO: SECURITY OF USER INPUT
-// TODO: ADD CONNECT AND NODEUNIT
+// TODO: ADD NODEUNIT
 
 var mapnik = require('mapnik')
   , mercator = require('mapnik/sphericalmercator')
-  , http = require('http')
+  , connect = require('connect')
   , url = require('url')
   , fs = require('fs')
   , path = require('path')
   , settings = require('./settings');
 
-function isEmpty(obj) {
-    for(var prop in obj) {
-        if(obj.hasOwnProperty(prop))
-            return false;
-    }
-    return true;
-}
 
-module.exports = http.createServer(function(req, res) {
+// CONNECT MIDDLEWARE
+module.exports = connect.createServer(  
+  
+  // LOGGING
+  connect.logger('\033[90m:method\033[0m \033[36m:url\033[0m \033[90m:status :response-timems -> :res[Content-Type]\033[0m')
+  
+  // STATIC ASSETS FOR DEMO ONLY (REMOVE LATER WHEN USING NGINX)
+, connect.static(__dirname + '/../public/', { maxAge: settings.oneDay })
 
-  var query = url.parse(req.url.toLowerCase(), true).query;
+  // TILER APPLICATION START
+, connect.router(function(app){
+    
+    // TILE REQUEST URL
+    app.get('/tiles/:x/:y/:z/:user_id/:sql/:style', function(req, res, next){      
 
-  res.writeHead(500, {
-  'Content-Type': 'text/plain'
-  });
-
-  if (!query || isEmpty(query)) {
       try {
-        res.writeHead(200, {
-        'Content-Type': 'text/html'
+        // CALCULATE BBOX FOR RENDER STEP
+        var bbox = mercator.xyz_to_envelope(parseInt(req.params.x),
+                                            parseInt(req.params.y),
+                                            parseInt(req.params.z), false);
+      
+        // CREATE MAP
+        var map = new mapnik.Map(256, 256, mercator.srs);
+      
+        // SET ?
+        map.buffer_size(50);
+      
+        // CREATE LAYER TO RENDER
+        var layer = new mapnik.Layer('tile', mercator.srs);
+
+        // SET DATABASE NAME
+        settings.postgis.dbname = settings.db_base_name.replace(/{user_id}/i,req.params.user_id);
+
+        // SET TABLE NAME
+        settings.postgis.table = unescape(req.params.sql);
+
+        // CREATE MAPNIK DATASOURCE
+        var postgis = new mapnik.Datasource(settings.postgis);
+        layer.datasource = postgis;
+  
+        // SET STYLE FROM REQUEST
+        styles = [req.params.style];
+        map.load(path.join(settings.styles, req.params.style + '.xml'));
+  
+        // ADD LABEL STYLES BY DEFAULT
+        styles.push('text');
+        map.load(path.join(settings.styles, 'text.xml'));
+  
+        // ADD STYLES TO LAYER
+        layer.styles = styles;
+  
+        // ADD LAYER TO MAP
+        map.add_layer(layer);
+  
+        // LOG MAP WITH toString()
+        //console.log(map.toString());
+        
+        // RENDER MAP AS PNG
+        map.render(bbox, 'png', function(err, buffer) {
+          if (err) {
+            throw err;
+          } else {
+            //console.log(map.scaleDenominator());
+            res.statusCode = 200;
+            res.setHeader('Content-Type', 'image/png');        
+            res.end(buffer);            
+          }
         });
-        if (req.url == '/') {
-            res.end(fs.readFileSync('./public/index.html'));
-        } else {
-            res.end(fs.readFileSync('./public/' + req.url));      
-        }
-      } catch (err) {
-            res.end('Not found: ' + req.url);      
       }
-  } else {
-
-      // ENSURE ALL PARAMS ARE PASSED  
-      if (query &&
-          query.user_id !== undefined &&
-          query.x       !== undefined &&
-          query.y       !== undefined &&
-          query.z       !== undefined &&
-          query.sql     !== undefined &&
-          query.style   !== undefined
-          ) {
-    
-          // CALCULATE BBOX FOR RENDER STEP
-          var bbox = mercator.xyz_to_envelope(parseInt(query.x),
-                                              parseInt(query.y),
-                                              parseInt(query.z), false);
-          
-          // CREATE MAP
-          var map = new mapnik.Map(256, 256, mercator.srs);
-          
-          // SET ?
-          map.buffer_size(50);
-          
-          // CREATE LAYER TO RENDER
-          var layer = new mapnik.Layer('tile', mercator.srs);
-          
-          try {
-              // SET DATABASE NAME
-              settings.postgis.dbname = settings.db_base_name.replace(/{user_id}/i,query.user_id);
-
-              // SET TABLE NAME
-              settings.postgis.table = unescape(query.sql);
-
-              // CREATE MAPNIK DATASOURCE
-              var postgis = new mapnik.Datasource(settings.postgis);
-              layer.datasource = postgis;
-              
-              // LOAD STYLE FROM QUERY FLAG
-              styles = [query.style];
-              map.load(path.join(settings.styles, query.style + '.xml'));
-              
-              // ADD LABEL STYLES BY DEFAULT
-              styles.push('text');
-              map.load(path.join(settings.styles, 'text.xml'));
-              
-              // ADD STYLES TO LAYER
-              layer.styles = styles;
-              
-              // ADD LAYER TO MAP
-              map.add_layer(layer);
-              
-              // show map in terminal with toString()
-              //console.log(map.toString());
-          }
-          catch (err) {
-              res.end(err.message);
-          }
-    
-          // RENDER MAP AS PNG
-          map.render(bbox, 'png', function(err, buffer) {
-              if (err) {
-                  res.end(err.message);
-              } else {
-                  //console.log(map.scaleDenominator());
-                  res.writeHead(200, {
-                    'Content-Type': 'image/png'
-                  });
-                  res.end(buffer);
-              }
-          });
-      } else {
-          res.end('missing x, y, z, sql, or style parameter');
+      catch (err) {        
+        res.statusCode = 500;
+        res.setHeader('Content-Type', 'text/plain');        
+        res.end(err.message);
       }
-  }
-});
+    });
+  })  
+);
