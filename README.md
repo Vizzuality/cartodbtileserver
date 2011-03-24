@@ -18,8 +18,8 @@
   
   Install node:
   
-    $ wget http://nodejs.org/dist/node-v0.4.2.tar.gz
-    $ tar xvf node-v0.4.2.tar.gz
+    $ wget http://nodejs.org/dist/node-v0.4.3.tar.gz
+    $ tar xvf node-v0.4.3.tar.gz
     $ ./configure
     $ make
     $ make install
