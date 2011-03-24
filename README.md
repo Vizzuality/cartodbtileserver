@@ -1,18 +1,18 @@
-# Coalition
-
-An illustrative web server that combines nodejs, mapnik, and postgis.
+# Tileserver for CartoDB that combines nodejs, mapnik, and postgis.
 
 
 ## Depends
 
-  NodeJS > 0.2.4
-  
-  Mapnik (latest trunk >r2397)
-  
-  Node-mapnik
-  
-  Npm / Spark
+* NodeJS > 0.2.4
+* Mapnik (latest trunk >r2397)
+* Npm 
+* Spark  
+* Node-mapnik
+* Connect
 
+## for Development
+
+* nodeunit
 
 ## Installation
   
@@ -40,6 +40,9 @@ An illustrative web server that combines nodejs, mapnik, and postgis.
 
     $ npm install spark
 
+  Install connect via npm:
+
+    $ npm install connect
 
 ## Configuration
 
