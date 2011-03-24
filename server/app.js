@@ -17,7 +17,7 @@ function isEmpty(obj) {
     return true;
 }
 
-module.exports.server = http.createServer(function(req, res) {
+module.exports = http.createServer(function(req, res) {
 
   var query = url.parse(req.url.toLowerCase(), true).query;
 

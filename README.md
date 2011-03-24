@@ -6,7 +6,7 @@
 * NodeJS > 0.2.4
 * Mapnik (latest trunk >r2397)
 * Npm 
-* Spark  
+* Cluster  
 * Node-mapnik
 * Connect
 
@@ -36,9 +36,9 @@
   
     $ curl http://npmjs.org/install.sh | sh
   
-  Install spark via npm:
+  Install cluster via npm:
 
-    $ npm install spark
+    $ npm install cluster
 
   Install connect via npm:
 
@@ -60,7 +60,7 @@
     
   Or:
   
-    $ spark
+    $ node app.js
     
   Then visit http://localhost:3000/. Choose a style type and a postgis subquery.
 
