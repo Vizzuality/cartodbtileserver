@@ -1,3 +1,5 @@
+// TODO: SECURITY OF USER INPUT
+
 var mapnik = require('mapnik')
   , mercator = require('mapnik/sphericalmercator')
   , http = require('http')
@@ -62,6 +64,9 @@ module.exports.server = http.createServer(function(req, res) {
           var layer = new mapnik.Layer('tile', mercator.srs);
           
           try {
+              // SET DATABASE NAME
+              settings.postgis.dbname = settings.db_base_name.replace(/{user_id}/i,query.user_id);
+
               // SET TABLE NAME
               settings.postgis.table = unescape(query.sql);
 

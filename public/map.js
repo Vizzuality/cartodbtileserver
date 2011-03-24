@@ -11,7 +11,6 @@ var map = po.map()
     .add(po.hash());
 
 // mapquest's mapnik tiles
-
 map.add(po.image()
     .url(po.url('http://otile{S}.mqcdn.com/tiles/1.0.0/osm/'
     + '{Z}/{X}/{Y}.png')
@@ -22,7 +21,7 @@ var tile_url = '?x={X}&y={Y}&z={Z}';
 
 // local tile server
 var layer = po.image()
-    .url(po.url(tile_url + '&sql=points9&style=point'));
+    .url(po.url(tile_url + '&sql=madrid_bars&style=point&user_id=1'));
 
 map.add(layer);
 
@@ -37,14 +36,14 @@ var update_tiles = function() {
   var style = 'point';
   var sql = document.getElementById('q').value;
   if (!sql)
-      sql = 'points9';
+      sql = 'madrid_bars';
   if (document.forms[0][0].checked)
      style = 'point';
   if (document.forms[0][1].checked)
      style = 'polygon';
   if (document.forms[0][2].checked)
      style = 'line';
-  layer.url(po.url(tile_url + '&sql=' + escape(sql) + '&style=' + style))
+  layer.url(po.url(tile_url + '&sql=' + escape(sql) + '&style=' + style + '&user_id=1'))
      .reload();
   console.log(sql);
 };
