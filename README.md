@@ -12,7 +12,7 @@
 
 ## for Development
 
-* nodeunit
+* expresso
 
 ## Installation
   
