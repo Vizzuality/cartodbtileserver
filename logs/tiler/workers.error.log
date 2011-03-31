@@ -1,0 +1,2674 @@
+
+node.js:134
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+
+        throw e; // process.nextTick error, or 'error' event on first tick
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+node.js:134
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+TypeError: Cannot read property 'styles' of undefined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:3:53)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/run_tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+node.js:134
+
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+
+node.js:134
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+        ^
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+     ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+   ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+
+node.js:134
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: settings is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:19:28)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+
+        ^
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+Error: Cannot find module '/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/../../config/settings'
+    at Function._resolveFilename (module.js:320:11)
+    at Function._load (module.js:266:25)
+    at require (module.js:348:19)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:16)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+
+        ^
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+
+node.js:134
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+        ^
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+
+node.js:134
+        throw e; // process.nextTick error, or 'error' event on first tick
+        ^
+ReferenceError: ENV is not defined
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers/tiler.js:11:34)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)
+    at Module.load (module.js:336:31)
+    at Function._load (module.js:297:12)
+    at require (module.js:348:19)
+    at Master.listen (/usr/local/lib/node/.npm/cluster/0.4.2/package/lib/master.js:236:23)
+    at Object.<anonymous> (/Users/simon/01.Code/01.Now/git/cartodbtileserver/server/tiler.js:9:4)
+    at Module._compile (module.js:404:26)
+    at Object..js (module.js:410:10)

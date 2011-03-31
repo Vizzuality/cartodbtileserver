@@ -1,0 +1,1184 @@
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/controllers
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/styles
+THIS IS THE STYLES DIRNAME:/Users/simon/01.Code/01.Now/git/cartodbtileserver/app/styles
+[90mGET[0m [36m/[0m [90m200 4ms -> text/html; charset=UTF-8[0m
+[90mGET[0m [36m/map.js[0m [90m200 1ms -> application/javascript[0m
+[90mGET[0m [36m/tiles/0/1/1/1/madrid_bars/point[0m [90m200 87ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/1/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/0/1/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/0/1/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/4/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/4/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/4/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/4/3/1/madrid_bars/point[0m [90m200 29ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/3/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/3/3/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/2/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/4/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/4/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/3/3/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/3/3/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/3/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/2/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/3/3/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/2/3/1/madrid_bars/point[0m [90m200 30ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/2/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/2/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/1/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/2/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/1/3/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/1/3/1/madrid_bars/point[0m [90m200 28ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/1/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/1/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/13/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/15/13/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/13/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/13/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/12/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/12/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/13/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/12/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/13/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/11/5/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/12/5/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/11/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/12/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/11/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/11/5/1/madrid_bars/point[0m [90m200 26ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/12/5/1/madrid_bars/point[0m [90m200 28ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/11/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/10/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/10/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/11/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/10/5/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/10/5/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/10/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/10/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/19/13/5/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/19/12/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/19/11/5/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/19/10/5/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16/14/5/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/15/14/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/12/13/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/14/5/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/12/12/5/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/12/14/5/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/14/5/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/14/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/12/11/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/6/4/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/7/4/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/6/4/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/7/4/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/7/4/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/9/7/4/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/8/7/4/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/9/6/4/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/6/4/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/9/5/4/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/8/6/4/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/8/5/4/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/9/4/4/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/5/4/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/5/4/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/8/4/4/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/5/4/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/4/4/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/4/4/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/4/4/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/1/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/1/3/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/1/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/1/3/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/1/3/1/web_geoms/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/1/3/1/web_geoms/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/4/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/4/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/4/3/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/4/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/3/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/3/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/4/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/4/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/3/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/3/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/3/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/2/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/2/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/3/3/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/2/3/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/2/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/2/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/1/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/2/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/1/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/1/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/1/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/1/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/1/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/6/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/5/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/4/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/3/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/6/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/6/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/6/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/6/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/6/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/5/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/5/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/5/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/5/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/5/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/4/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/3/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/5/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/2/3/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/4/3/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/5/3/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/6/3/1/web_geoms/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/3/3/1/web_geoms/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/2/3/1/web_geoms/point[0m [90m500 12ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/2/3/1/web_geoms/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/2/3/1/web_geoms/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/2/3/1/web_geoms/point[0m [90m500 13ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/2/3/1/web_geoms/point[0m [90m500 29ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/3/3/1/web_geoms/point[0m [90m500 22ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/4/3/1/web_geoms/point[0m [90m500 21ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/1/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/1/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/1/3/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/1/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/1/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/1/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/3/3/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/4/3/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/2/3/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/1/3/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/1/3/1/wdpa/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/2/3/1/wdpa/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/1/3/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/1/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/1/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/4/3/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/4/3/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/3/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/4/3/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/3/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/4/3/1/wdpa/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/3/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/4/3/1/wdpa/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/3/3/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/2/3/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/3/3/1/wdpa/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/2/3/1/wdpa/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/2/3/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/2/3/1/wdpa/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/1/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/2/3/1/wdpa/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/1/3/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/1/3/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/1/3/1/web_geom/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/2/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/1/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/1/3/1/web_geom/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/1/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/1/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/2/3/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/2/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/2/3/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/2/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/3/3/1/web_geom/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/3/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/3/3/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/4/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/3/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/4/3/1/web_geom/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/3/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/4/3/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/4/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/4/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/1/3/1/web_geom/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/3/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/2/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/4/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/2/3/1/web_geom/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/4/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/5/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/6/3/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/5/3/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/2/5/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/5/5/3/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/5/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/5/3/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/2/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/2/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/3/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/3/3/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/4/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/4/3/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/5/3/1/web_geom/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/5/3/1/web_geom/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/7/2/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/2/3/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/5/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/3/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/4/3/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/4/3/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/7/3/3/1/madrid_bars/point[0m [90m200 27ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/5/3/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/5/3/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/5/3/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/5/3/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/5/3/1/madrid_bars/point[0m [90m200 22ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/5/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/5/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+undefined
+/Users/simon/01.Code/01.Now/git/cartodbtileserver/config/environments/development
+[90mGET[0m [36m/[0m [90m200 3ms -> text/html; charset=UTF-8[0m
+[90mGET[0m [36m/map.js[0m [90m200 2ms -> application/javascript[0m
+[90mGET[0m [36m/tiles/0/1/1/1/madrid_bars/point[0m [90m200 39ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/0/1/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/0/1/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/1/1/madrid_bars/point[0m [90m200 25ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/4/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/4/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/4/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/4/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/3/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/3/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/4/3/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/2/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/3/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/4/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/3/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/3/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/2/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/3/3/1/madrid_bars/point[0m [90m200 27ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/2/3/1/madrid_bars/point[0m [90m200 25ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/2/3/1/madrid_bars/point[0m [90m200 26ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/2/3/1/madrid_bars/point[0m [90m200 31ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/2/3/1/madrid_bars/point[0m [90m200 32ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/1/3/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/1/3/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/1/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/1/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/1/3/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/17/14/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/14/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/14/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/14/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/13/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/14/5/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/13/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/12/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/13/5/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/13/5/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/12/5/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/12/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/14/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/13/5/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/13/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/12/5/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/12/5/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/11/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/12/5/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/11/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/11/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/11/5/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/11/5/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/11/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/64/50/7/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/50/7/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/50/7/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/50/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/49/7/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/49/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/48/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/49/7/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/49/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/50/7/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/50/7/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/49/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/49/7/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/48/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/48/7/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/48/7/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/48/7/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/47/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/48/7/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/47/7/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/47/7/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/47/7/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/47/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/47/7/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/26/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/26/6/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/26/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/26/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/26/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/25/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/25/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/25/6/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/24/6/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/25/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/25/6/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/24/6/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/26/6/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/24/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/25/6/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/23/6/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/24/6/1/madrid_bars/point[0m [90m200 22ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/24/6/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/24/6/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/23/6/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/23/6/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/23/6/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/23/6/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/23/6/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/23/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/23/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/23/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/23/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/23/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/23/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/26/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/26/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/26/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/26/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/25/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/26/6/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/25/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/24/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/25/6/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/25/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/24/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/26/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/25/6/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/25/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/24/6/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/23/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/23/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/23/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/23/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/23/6/1/web_geoms/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/23/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/24/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/23/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/22/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/21/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/21/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/21/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/21/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/21/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/21/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/22/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/22/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/22/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/22/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/25/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/25/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/25/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/25/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/25/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/25/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/22/6/1/wdpa/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/22/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/22/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/22/6/1/wdpa/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/22/6/1/wdpa/point[0m [90m500 10ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/25/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/25/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/25/6/1/wdpa/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/24/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/25/6/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/25/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/24/6/1/wdpa/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/24/6/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/24/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/24/6/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/23/6/1/wdpa/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/24/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/25/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/23/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/23/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/23/6/1/wdpa/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/23/6/1/wdpa/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/22/6/1/wdpa/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/28/23/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/22/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/35/23/6/1/wdpa/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/23/6/1/wdpa/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/35/22/6/1/wdpa/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/25/6/1/wdpa/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/35/25/6/1/wdpa/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/24/6/1/wdpa/point[0m [90m500 10ms -> text/plain[0m
+[90mGET[0m [36m/tiles/35/24/6/1/wdpa/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/[0m [90m304 1ms -> undefined[0m
+[90mGET[0m [36m/tiles/33/25/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/25/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/25/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/25/6/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/24/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/24/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/24/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/23/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/25/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/35/25/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/35/24/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/24/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/35/23/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/24/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/23/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/23/6/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/23/6/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/23/6/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/35/22/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/34/22/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/33/22/6/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/31/22/6/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/32/22/6/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/30/22/6/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/23/6/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/25/6/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/29/24/6/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/22/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/22/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/22/6/1/web_geoms/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/22/6/1/web_geoms/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/25/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/22/6/1/web_geoms/point[0m [90m500 10ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/25/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/25/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/24/6/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/25/6/1/web_geoms/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/23/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/25/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/24/6/1/web_geoms/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/25/6/1/web_geoms/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/24/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/23/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/23/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/23/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/23/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/23/6/1/web_geoms/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/22/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/22/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/22/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/22/6/1/web_geoms/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/22/6/1/web_geoms/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/web_geoms/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/22/6/1/web_geom/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/22/6/1/web_geom/point[0m [90m500 9ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/22/6/1/web_geom/point[0m [90m500 14ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/22/6/1/web_geom/point[0m [90m500 16ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/25/6/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/22/6/1/web_geom/point[0m [90m500 21ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/25/6/1/web_geom/point[0m [90m500 4ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/25/6/1/web_geom/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/24/6/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/25/6/1/web_geom/point[0m [90m500 10ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/25/6/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/24/6/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/25/6/1/web_geom/point[0m [90m500 8ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/23/6/1/web_geom/point[0m [90m500 10ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/24/6/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/24/6/1/web_geom/point[0m [90m500 13ms -> text/plain[0m
+[90mGET[0m [36m/tiles/32/23/6/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/33/23/6/1/web_geom/point[0m [90m500 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/23/6/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/24/6/1/web_geom/point[0m [90m500 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/34/24/6/1/web_geom/point[0m [90m500 6ms -> text/plain[0m
+[90mGET[0m [36m/tiles/30/23/6/1/web_geom/point[0m [90m500 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/31/23/6/1/web_geom/point[0m [90m500 5ms -> text/plain[0m
+[90mGET[0m [36m/tiles/29/22/6/1/web_geom/point[0m [90m500 7ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/1/1/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/0/1/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/1/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1/0/1/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4/4/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/4/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/4/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/4/3/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/3/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/3/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/4/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/2/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/3/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/4/3/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/2/3/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/3/3/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/2/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/3/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/3/3/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/2/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/2/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/2/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/1/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/1/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/1/3/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/1/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/1/3/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/17/13/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/13/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/13/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/13/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/13/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/12/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/12/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/12/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/11/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/13/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/12/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/12/5/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/12/5/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/11/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/11/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/11/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/11/5/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/10/5/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/11/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/10/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/10/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/10/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/10/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/10/5/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/64/49/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/49/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/49/7/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/49/7/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/48/7/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/48/7/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/48/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/48/7/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/49/7/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/49/7/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/47/7/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/48/7/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/48/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/47/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/47/7/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/47/7/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/46/7/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/47/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/46/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/46/7/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/66/46/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/47/7/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/46/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/46/7/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/252/194/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/194/9/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/194/9/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/194/9/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/193/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/193/9/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/193/9/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/193/9/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/194/9/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/194/9/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/192/9/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/193/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/252/193/9/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/192/9/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/192/9/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/252/192/9/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/192/9/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/191/9/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/191/9/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/252/191/9/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/192/9/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/191/9/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/191/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/191/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/773/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1001/773/11/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/773/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/773/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/771/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/772/11/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/773/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/772/11/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/772/11/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/772/11/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/772/11/1/madrid_bars/point[0m [90m200 28ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/772/11/1/madrid_bars/point[0m [90m200 29ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/773/11/1/madrid_bars/point[0m [90m200 31ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/771/11/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/771/11/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/771/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/771/11/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/771/11/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/770/11/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/770/11/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/770/11/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/770/11/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/770/11/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/770/11/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4013/3090/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3090/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3090/13/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3090/13/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3089/13/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3088/13/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3089/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4015/3090/13/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3090/13/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/4013/3089/13/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3089/13/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/4015/3089/13/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3089/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4015/3088/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3088/13/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/4013/3088/13/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3088/13/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3088/13/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3087/13/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3087/13/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/4013/3087/13/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3087/13/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/4015/3087/13/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3087/13/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16046/12356/15/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12356/15/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12356/15/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12355/15/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12355/15/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12356/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/16050/12356/15/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12356/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12355/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12355/15/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/16050/12355/15/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12355/15/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12354/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12354/15/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16050/12354/15/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12353/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12354/15/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/16050/12353/15/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12353/15/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12354/15/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12354/15/1/madrid_bars/point[0m [90m200 22ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12353/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12353/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12353/15/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16044/12356/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/16044/12355/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16044/12354/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16044/12353/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16043/12356/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16043/12355/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16043/12354/15/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/16043/12353/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16048/12351/15/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/16050/12351/15/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12351/15/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12351/15/1/madrid_bars/point[0m [90m200 20ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12351/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/16050/12352/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12352/15/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12352/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12352/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16046/12352/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16045/12352/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16048/12357/15/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12357/15/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12357/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12357/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16044/12357/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12357/15/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/64189/49421/17/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/64187/49421/17/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/64188/49421/17/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/64186/49421/17/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/64187/49420/17/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/64186/49420/17/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/64186/49419/17/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/64191/49421/17/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/64190/49420/17/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/64191/49420/17/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/64190/49421/17/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/64189/49420/17/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/64189/49419/17/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/64190/49419/17/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/64191/49419/17/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/64188/49420/17/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/64188/49419/17/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/64187/49419/17/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/64188/49418/17/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/64189/49418/17/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/64190/49418/17/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/64191/49418/17/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/64187/49418/17/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/64186/49418/17/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/256757/197680/19/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/tiles/256756/197680/19/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/256755/197680/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256753/197680/19/1/madrid_bars/point[0m [90m200 4ms -> image/png[0m
+[90mGET[0m [36m/tiles/256754/197680/19/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/256755/197679/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256754/197679/19/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/256753/197679/19/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/256753/197678/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256754/197678/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/256758/197680/19/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/256757/197679/19/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/256758/197679/19/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/256756/197679/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256757/197678/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/256758/197678/19/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/256756/197678/19/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/256758/197677/19/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/256755/197678/19/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/256757/197677/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/256755/197677/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/256756/197677/19/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/256754/197677/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256753/197677/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/256758/197676/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/256757/197676/19/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/256756/197676/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256755/197676/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/256754/197676/19/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/256753/197676/19/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/256752/197680/19/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/256752/197679/19/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/256759/197679/19/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/256759/197680/19/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/256759/197678/19/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/256759/197677/19/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/128376/98840/18/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/128377/98840/18/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/128376/98839/18/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/128379/98840/18/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/128378/98839/18/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/128379/98839/18/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/128378/98840/18/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/128377/98839/18/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/128376/98838/18/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/128377/98838/18/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/128378/98838/18/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/128379/98838/18/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/128380/98838/18/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/128380/98839/18/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/128380/98840/18/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/0/1/1/1/madrid_bars/point[0m [90m200 50ms -> image/png[0m
+[90mGET[0m [36m/tiles/0/0/1/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/1/1/madrid_bars/point[0m [90m200 62ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/0/1/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/3/4/3/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/4/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/4/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/4/3/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/4/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/4/3/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/3/3/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/3/3/1/madrid_bars/point[0m [90m200 28ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/3/3/1/madrid_bars/point[0m [90m200 101ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/3/3/1/madrid_bars/point[0m [90m200 109ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/2/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/3/3/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/3/3/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/2/3/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/2/3/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/2/3/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/2/3/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/2/3/1/madrid_bars/point[0m [90m200 25ms -> image/png[0m
+[90mGET[0m [36m/tiles/1/1/3/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/2/1/3/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/4/1/3/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/5/1/3/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/3/1/3/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/6/1/3/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 3ms -> text/plain[0m
+[90mGET[0m [36m/tiles/17/14/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/14/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/14/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/14/5/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/14/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/13/5/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/13/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/13/5/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/12/5/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/13/5/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/12/5/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/14/5/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/13/5/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/12/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/12/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/12/5/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/12/5/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/13/5/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/17/11/5/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/18/11/5/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/16/11/5/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/13/11/5/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/15/11/5/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/14/11/5/1/madrid_bars/point[0m [90m200 21ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/64/50/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/50/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/50/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/50/7/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/50/7/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/49/7/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/49/7/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/49/7/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/49/7/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/48/7/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/49/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/48/7/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/48/7/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/48/7/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/48/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/64/47/7/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/63/47/7/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/61/47/7/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/65/47/7/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/62/47/7/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 2ms -> text/plain[0m
+[90mGET[0m [36m/tiles/252/195/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/195/9/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/195/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/195/9/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/194/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/194/9/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/194/9/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/193/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/195/9/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/195/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/194/9/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/193/9/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/194/9/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/252/194/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/252/193/9/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/193/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/193/9/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/193/9/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/252/192/9/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/253/192/9/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/251/192/9/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/254/192/9/1/madrid_bars/point[0m [90m200 24ms -> image/png[0m
+[90mGET[0m [36m/tiles/250/192/9/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/249/192/9/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1004/775/11/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/775/11/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/775/11/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/775/11/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/774/11/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/774/11/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/773/11/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/774/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/775/11/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1007/774/11/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1007/775/11/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/1007/773/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/774/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/773/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/774/11/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/773/11/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/773/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/773/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1007/772/11/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/772/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/772/11/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1006/772/11/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/772/11/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/772/11/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/774/11/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/771/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/772/11/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/1001/773/11/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1004/770/11/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/770/11/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/770/11/1/madrid_bars/point[0m [90m200 18ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/770/11/1/madrid_bars/point[0m [90m200 22ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1001/770/11/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/1000/773/11/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/1000/772/11/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1000/771/11/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/1000/770/11/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/1005/771/11/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/1004/771/11/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/1003/771/11/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/1002/771/11/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 1ms -> text/plain[0m
+[90mGET[0m [36m/tiles/4013/3090/13/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3090/13/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3090/13/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3090/13/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/4009/3090/13/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3089/13/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3089/13/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/4009/3089/13/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3088/13/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3090/13/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/4009/3088/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3088/13/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/4013/3089/13/1/madrid_bars/point[0m [90m200 14ms -> image/png[0m
+[90mGET[0m [36m/tiles/4013/3088/13/1/madrid_bars/point[0m [90m200 16ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3089/13/1/madrid_bars/point[0m [90m200 17ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3089/13/1/madrid_bars/point[0m [90m200 58ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3088/13/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/4012/3087/13/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/4013/3087/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3087/13/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/4014/3087/13/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/4011/3088/13/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/4010/3087/13/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/4009/3087/13/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12356/15/1/madrid_bars/point[0m [90m200 8ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12356/15/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12356/15/1/madrid_bars/point[0m [90m200 6ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12356/15/1/madrid_bars/point[0m [90m200 5ms -> image/png[0m
+[90mGET[0m [36m/favicon.ico[0m [90m404 0ms -> text/plain[0m
+[90mGET[0m [36m/tiles/16046/12355/15/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12355/15/1/madrid_bars/point[0m [90m200 11ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12356/15/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12354/15/1/madrid_bars/point[0m [90m200 13ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12355/15/1/madrid_bars/point[0m [90m200 19ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12355/15/1/madrid_bars/point[0m [90m200 26ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12355/15/1/madrid_bars/point[0m [90m200 30ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12354/15/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12354/15/1/madrid_bars/point[0m [90m200 23ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12354/15/1/madrid_bars/point[0m [90m200 31ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12354/15/1/madrid_bars/point[0m [90m200 10ms -> image/png[0m
+[90mGET[0m [36m/tiles/16048/12353/15/1/madrid_bars/point[0m [90m200 9ms -> image/png[0m
+[90mGET[0m [36m/tiles/16047/12353/15/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/16046/12353/15/1/madrid_bars/point[0m [90m200 12ms -> image/png[0m
+[90mGET[0m [36m/tiles/16049/12353/15/1/madrid_bars/point[0m [90m200 15ms -> image/png[0m
+[90mGET[0m [36m/tiles/16045/12353/15/1/madrid_bars/point[0m [90m200 7ms -> image/png[0m

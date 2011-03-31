@@ -1,14 +1,13 @@
 // TODO: SECURITY OF USER INPUT
 // TODO: ADD NODEUNIT
 
+
 var mapnik = require('mapnik')
   , mercator = require('mapnik/sphericalmercator')
   , connect = require('connect')
   , url = require('url')
   , fs = require('fs')
-  , path = require('path')
-  , settings = require('./settings');
-
+  , path = require('path');
 
 // CONNECT MIDDLEWARE
 module.exports = connect.createServer(  
@@ -17,7 +16,7 @@ module.exports = connect.createServer(
   connect.logger('\033[90m:method\033[0m \033[36m:url\033[0m \033[90m:status :response-timems -> :res[Content-Type]\033[0m')
   
   // STATIC ASSETS FOR DEMO ONLY (REMOVE LATER WHEN USING NGINX)
-, connect.static(__dirname + '/../public/', { maxAge: settings.oneDay })
+, connect.static(__dirname + '/../../public/', { maxAge: global.settings.oneDay })
 
   // TILER APPLICATION START
 , connect.router(function(app){
@@ -41,18 +40,18 @@ module.exports = connect.createServer(
         var layer = new mapnik.Layer('tile', mercator.srs);
 
         // SET DATABASE NAME
-        settings.postgis.dbname = settings.db_base_name.replace(/{user_id}/i,req.params.user_id);
+        global.settings.postgis.dbname = global.settings.db_base_name.replace(/{user_id}/i,req.params.user_id);
 
         // SET TABLE NAME
-        settings.postgis.table = unescape(req.params.sql);
+        global.settings.postgis.table = unescape(req.params.sql);
 
         // CREATE MAPNIK DATASOURCE
-        var postgis = new mapnik.Datasource(settings.postgis);
+        var postgis = new mapnik.Datasource(global.settings.postgis);
         layer.datasource = postgis;
   
         // SET STYLE FROM REQUEST
         styles = [req.params.style];
-        map.load(path.join(settings.styles, req.params.style + '.xml'));
+        map.load(path.join(global.settings.styles, req.params.style + '.xml'));
   
         // ADD LABEL STYLES BY DEFAULT
         // styles.push('text');
