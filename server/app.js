@@ -55,8 +55,8 @@ module.exports = connect.createServer(
         map.load(path.join(settings.styles, req.params.style + '.xml'));
   
         // ADD LABEL STYLES BY DEFAULT
-        styles.push('text');
-        map.load(path.join(settings.styles, 'text.xml'));
+        // styles.push('text');
+        // map.load(path.join(settings.styles, 'text.xml'));
   
         // ADD STYLES TO LAYER
         layer.styles = styles;

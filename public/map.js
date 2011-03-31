@@ -6,15 +6,16 @@ var map = po.map()
     .zoom(1)
     .zoomRange([1, 20])
     .add(po.drag())
-    .add(po.wheel())
+    .add(po.interact())
     .add(po.dblclick())
     .add(po.hash());
 
 // mapquest's mapnik tiles
 map.add(po.image()
-    .url(po.url('http://otile{S}.mqcdn.com/tiles/1.0.0/osm/'
-    + '{Z}/{X}/{Y}.png')
-    .hosts(['1', '2', '3', '4'])));
+    // .url(po.url('http://otile{S}.mqcdn.com/tiles/1.0.0/osm/'
+    // + '{Z}/{X}/{Y}.png')
+    .url(po.url('http://{S}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/1/256/{Z}/{X}/{Y}.png')
+    .hosts(['a', 'b', 'c'])));
 
 
 var tile_url = '/tiles/{X}/{Y}/{Z}';

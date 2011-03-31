@@ -1,4 +1,4 @@
 #!/bin/sh
 
 # https://github.com/learnboost/cluster/
-node app.js
+NODE_ENV=production node app.js
