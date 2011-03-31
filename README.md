@@ -3,12 +3,12 @@
 
 ## Depends
 
-* NodeJS > 0.4.3
+* NodeJS > 0.4.4
 * Mapnik (latest trunk >r2397)
 * Node-mapnik
 * Npm 
-* Cluster > 0.4.2 
-* Connect > 1.1.4
+* Cluster > 0.5.3 
+* Connect > 1.1.5
 
 ## for Development
 
@@ -46,7 +46,7 @@
 
 ## Configuration
 
-  Edit the postgis settings in 'server/settings.js' to match your system.
+  Edit the postgis settings in 'config/environments/[environment].js' to match your system.
   
   Also, fixup the few hardcoded sample queries in 'public/index.html' to match your postgis tables.
 
