@@ -1,6 +1,6 @@
 build
 .notes.txt
 .DS_Store
-logs/*.log
-pids/*.pid
+*.log
+*.pid
 *.sock

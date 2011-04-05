@@ -12,7 +12,7 @@
 // sanity check arguments
 var ENV = process.argv[2]
 var APP = process.argv[3]
-if ((ENV != 'development' && ENV != 'production') || (APP != 'proxy' && APP != 'tiler')){
+if ((ENV != 'development' && ENV != 'production') || (APP != 'proxy' && APP != 'tiler' && APP != 'old_tiler')){
   console.error("\nnode app [environment] [server]");
   console.error("environments: [development, production], servers: [proxy, tiler]\n");
   process.exit(1);

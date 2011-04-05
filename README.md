@@ -9,6 +9,8 @@
 * Npm 
 * Cluster > 0.5.3 
 * Connect > 1.1.5
+* Underscore.js > 1.1.5
+* node-redis > 0.1.2
 
 ## for Development
 
@@ -18,8 +20,8 @@
   
   Install node:
   
-    $ wget http://nodejs.org/dist/node-v0.4.3.tar.gz
-    $ tar xvf node-v0.4.3.tar.gz
+    $ wget http://nodejs.org/dist/node-v0.4.4.tar.gz
+    $ tar xvf node-v0.4.4.tar.gz
     $ ./configure
     $ make
     $ make install
@@ -36,13 +38,9 @@
   
     $ curl http://npmjs.org/install.sh | sh
   
-  Install cluster via npm:
+  Install deps via npm:
 
-    $ npm install cluster
-
-  Install connect via npm:
-
-    $ npm install connect
+    $ npm install cluster connect node-redis underscore
 
 ## Configuration
 
