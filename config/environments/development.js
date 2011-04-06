@@ -6,6 +6,9 @@ module.exports.environment  = 'development';
 module.exports.db_base_name = 'cartodb_dev_user_{user_id}_db';
 module.exports.oneDay       = 86400000;
 
+// PORTS 
+module.exports.carto_port   = 3000;
+
 // MAPNIK OPTIONS
 module.exports.postgis = {
     'user'            : 'publicuser',
