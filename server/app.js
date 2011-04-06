@@ -52,7 +52,14 @@ module.exports = connect.createServer(
   
         // SET STYLE FROM REQUEST
         styles = [req.params.style];
-        map.load(path.join(settings.styles, req.params.style + '.xml'));
+
+        // LOAD STYLE FROM FILE
+        // map.load(path.join(settings.styles, req.params.style + '.xml')); 
+        
+        // LOAD STYLE FROM STRING
+        var style_string = fs.readFileSync(path.join(settings.styles, req.params.style + '.xml'), 'utf8');
+        map.from_string(style_string, settings.styles + "/"); //must end in trailing slash
+                
   
         // ADD LABEL STYLES BY DEFAULT
         // styles.push('text');
