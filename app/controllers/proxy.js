@@ -61,7 +61,7 @@ function pushOnTileQueue(req, res){
 
 // RESPONSE HANDLER  
 // KICK OFF RESPONSE HANDLER
-blpopResponse();
+//blpopResponse();
 
 function blpopResponse(){
   client_2.blpop(tile_response_queue, 0, function(err,res){handleResponse(err,res)});

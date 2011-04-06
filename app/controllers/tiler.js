@@ -8,7 +8,7 @@ var mapnik = require('mapnik')
   , path = require('path')
   , crypto = require('crypto')
   , redis = require('redis')
-  , client = redis.createClient(6379, '127.0.0.1')
+  , client = redis.createClient()
   , tile_request_queue = "tiler:queue1:request"
   , tile_response_queue = "tiler:queue1:responses";
   
