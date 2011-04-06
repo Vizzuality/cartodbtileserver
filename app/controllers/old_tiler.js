@@ -40,31 +40,34 @@ module.exports = connect.createServer(
         var layer = new mapnik.Layer('tile', mercator.srs);
 
         // SET DATABASE NAME
-        global.settings.postgis.dbname = global.settings.db_base_name.replace(/{user_id}/i,req.params.user_id);
+        global.settings.postgis.dbname = "ppe_development"//global.settings.db_base_name.replace(/{user_id}/i,req.params.user_id);
 
         // SET TABLE NAME
-        global.settings.postgis.table = unescape(req.params.sql);
+        global.settings.postgis.table = 'web_geoms'//unescape(req.params.sql);
 
         // CREATE MAPNIK DATASOURCE
         var postgis = new mapnik.Datasource(global.settings.postgis);
         layer.datasource = postgis;
   
-        // SET STYLE FROM REQUEST
-        styles = [req.params.style];
-        map.load(path.join(global.settings.styles, req.params.style + '.xml'));
+        // SET STYLE
+        var style_string = fs.readFileSync(path.join(settings.styles, req.params.style + '.xml'), 'utf8');
+        map.from_string(style_string, settings.styles + "/"); //must end in trailing slash
+        
+        // map.load(path.join(global.settings.styles, req.params.style + '.xml'));
   
         // ADD LABEL STYLES BY DEFAULT
         // styles.push('text');
         // map.load(path.join(settings.styles, 'text.xml'));
   
-        // ADD STYLES TO LAYER
+        // ADD STYLE NAME TO LAYER
+        styles = [req.params.style];
         layer.styles = styles;
   
         // ADD LAYER TO MAP
         map.add_layer(layer);
   
         // LOG MAP WITH toString()
-        //console.log(map.toString());
+        console.log(map.toXML());
         
         // RENDER MAP AS PNG
         map.render(bbox, 'png', function(err, buffer) {
