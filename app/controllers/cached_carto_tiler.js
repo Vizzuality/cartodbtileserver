@@ -293,6 +293,7 @@ function point_cartocss(style){
     , 'marker-placement': 'point'
     , 'marker-type': 'ellipse'
     , 'marker-allow-overlap': true
+    //, 'polygon-fill': '#FF6600'
   }  
 
   try {
