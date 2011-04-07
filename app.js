@@ -5,7 +5,7 @@
 * node app [environment] [server]
 *
 * environments: [development, production] 
-* servers: [proxy, tiler]
+* servers: [hightile]
 *
 */
 
@@ -19,7 +19,10 @@ if ((ENV != 'development' && ENV != 'production') || (APP != 'hightile' )){
 }
 
 // set Node.js app settings and boot
-global.settings = require(__dirname + '/config/environments/' + ENV)
+global.settings = require(__dirname + '/config/settings')
+global.environment = require(__dirname + '/config/environments/' + ENV)
+_.extend(global.settings.postgis,global.environment.postgis)
+ 
 require('./server/' + APP);
 
 
