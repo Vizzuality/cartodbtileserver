@@ -9,7 +9,7 @@ var mapnik = require('mapnik')
   , fs = require('fs')
   , crypto = require('crypto')
   , redis_lib = require('redis')
-  , redis = redis_lib.createClient()
+  , redis = redis_lib.createClient(6379, '127.0.0.1', {return_buffers: true})
   , _ = require('underscore')
   , path = require('path');
 
@@ -49,35 +49,71 @@ module.exports = connect.createServer(
     // TILE REQUEST URL
     app.get('/tiles/:x/:y/:z/:user_id/:sql/:style', function(req, res, next){      
 
-      try {
-        // CALCULATE BBOX FOR RENDER STEP
-        var bbox = mercator.xyz_to_envelope(parseInt(req.params.x),
-                                            parseInt(req.params.y),
-                                            parseInt(req.params.z), false);
+      var cache_key = "tile_cacho" + ":"
+                + req.params.x + ":" 
+                + req.params.y + ":" 
+                + req.params.z + ":" 
+                + req.params.user_id + ":" 
+                + req.params.sql + ":" 
+                + req.params.style;
       
-        // CREATE MAP
-        var map = new mapnik.Map(256, 256, mercator.srs);
-        map.buffer_size(50);
-        
-        // GET XML STYLESHEET FROM CACHE OR COMPILE
-        get_map_stylesheet(req.params, function(err, map_xml){
-          map.from_string(map_xml, settings.styles + "/");
+      try {
+        redis.get(cache_key, function(err,buffer){
+          if (!_.isNull(buffer)){
+            console.log("cache hit: " + cache_key);
+            res.statusCode = 200;
+            res.setHeader('Content-Type', 'image/png');        
+            res.end(buffer);                  
+          } else {
+            console.log("cache miss: " + cache_key)
+            // CALCULATE BBOX FOR RENDER STEP
+            var bbox = mercator.xyz_to_envelope(parseInt(req.params.x),
+                                                parseInt(req.params.y),
+                                                parseInt(req.params.z), false);
 
-          //console.log(map.toXML()); //DEBUG                   
+            // CREATE MAP
+            var map = new mapnik.Map(256, 256, mercator.srs);
+            map.buffer_size(50);
 
-          // RENDER MAP AS PNG
-          map.render(bbox, 'png', function(err, buffer) {
-            if (err) {
-              throw err;
-            } else {
-              //console.log(map.scaleDenominator());
-          
-              res.statusCode = 200;
-              res.setHeader('Content-Type', 'image/png');        
-              res.end(buffer);            
-            }
-          });
-        });
+            // GET XML STYLESHEET FROM CACHE OR COMPILE
+            get_map_stylesheet(req.params, function(err, map_xml){
+              map.from_string(map_xml, settings.styles + "/");
+
+              //console.log(map.toXML()); //DEBUG                   
+
+              // RENDER MAP AS PNG
+              map.render(bbox, 'png', function(err, buffer) {
+                if (err) {
+                  throw err;
+                } else {
+                  //console.log(map.scaleDenominator());
+
+                  // SEND BACK TO CLIENT
+                  res.statusCode = 200;
+                  res.setHeader('Content-Type', 'image/png');        
+                  res.end(buffer);      
+
+                  // CACHE LIKE A WEIRDO
+
+                  fs.writeFile(cache_key, buffer, function (err) {
+                      if (err) {
+                          console.log("Error on write: " + err)
+                      } else {
+                          fs.readFile(cache_key, function (err, data) {
+                              if (err) throw err
+                              redis.set(cache_key, data, function(err,res){ // SET CACHE HERE
+                                fs.unlink(cache_key, function(err){
+                                  if (err) throw err;
+                                })
+                              }); 
+                          });
+                      }
+                  });              
+                }
+              });
+            });
+          }
+        })
       } 
       catch (err) {        
         res.statusCode = 500;
@@ -115,7 +151,7 @@ function get_map_stylesheet(args, callback){
         });
       })
     } else{
-      callback(err, res)
+      callback(err, res.toString())
     }    
   });
 }
@@ -194,4 +230,3 @@ function point_cartocss(style){
 }
 
 
-        
