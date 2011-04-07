@@ -5,6 +5,7 @@ module.exports.styles = path.join(__dirname, '..', '..', 'app', 'styles');
 module.exports.environment  = 'production';
 module.exports.db_base_name = 'cartodb_user_{user_id}_db';
 module.exports.oneDay       = 86400000;
+module.exports.bad_tile     = path.join(__dirname, '..', '..', 'public', 'images') +  "/404_tile"
 
 // PORTS 
 module.exports.carto_port   = 8080;
