@@ -25,6 +25,19 @@ module.exports = connect.createServer(
   // TILER APPLICATION START
 , connect.router(function(app){
     
+    
+    app.get('/tiles/flush', function(req,res,next){
+      redis.FLUSHALL(function(err,result){
+         if (err) {
+            throw err;
+          } else {
+            res.statusCode = 200;
+            res.setHeader('Content-Type', 'text/javascript');        
+            res.end(JSON.stringify({status: 'ok', message: 'chocolate for you!'}));
+          }  
+      });      
+    });
+    
     // FIXME: TILE STYLE API URL
     app.get('/tiles/styles/:user_id/:table_name', function(req, res, next){
       try{
