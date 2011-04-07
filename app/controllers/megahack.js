@@ -49,7 +49,7 @@ module.exports = connect.createServer(
     // TILE REQUEST URL
     app.get('/tiles/:x/:y/:z/:user_id/:sql/:style', function(req, res, next){      
 
-      var cache_key = "tile_cacho" + ":"
+      var cache_key = "tile_cache" + ":"
                 + req.params.x + ":" 
                 + req.params.y + ":" 
                 + req.params.z + ":" 
