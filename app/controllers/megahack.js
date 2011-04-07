@@ -113,12 +113,14 @@ module.exports = connect.createServer(
       try {
         redis.get(cache_key, function(err,buffer){
           if (!_.isNull(buffer)){
+          
             console.log("cache hit: " + cache_key);
-            res.statusCode = 200;
-            res.setHeader('Content-Type', 'image/png');        
-            res.end(buffer);                  
+          
+            send_good_tile(res, buffer)
+          
           } else {
             console.log("cache miss: " + cache_key)
+            
             // CALCULATE BBOX FOR RENDER STEP
             var bbox = mercator.xyz_to_envelope(parseInt(req.params.x),
                                                 parseInt(req.params.y),
@@ -130,40 +132,43 @@ module.exports = connect.createServer(
 
             // GET XML STYLESHEET FROM CACHE OR COMPILE
             get_map_stylesheet(req.params, function(err, map_xml){
-              map.from_string(map_xml, settings.styles + "/");
+              if (err != null){
+                throw "Bad map stylesheet"
+              }
+              try {
+                
+                map.from_string(map_xml, global.settings.styles + "/");
+                // RENDER MAP AS PNG
+                map.render(bbox, 'png', function(err, buffer) {
+                  if (err) {
+                    throw err;
+                  } else {
+                    //console.log(map.scaleDenominator());
 
-              //console.log(map.toXML()); //DEBUG                   
+                    // SEND BACK TO CLIENT
+                    send_good_tile(res, buffer)
 
-              // RENDER MAP AS PNG
-              map.render(bbox, 'png', function(err, buffer) {
-                if (err) {
-                  throw err;
-                } else {
-                  //console.log(map.scaleDenominator());
-
-                  // SEND BACK TO CLIENT
-                  res.statusCode = 200;
-                  res.setHeader('Content-Type', 'image/png');        
-                  res.end(buffer);      
-
-                  // CACHE LIKE A WEIRDO
-
-                  fs.writeFile(cache_key, buffer, function (err) {
-                      if (err) {
-                          console.log("Error on write: " + err)
-                      } else {
-                          fs.readFile(cache_key, function (err, data) {
-                              if (err) throw err
-                              redis.set(cache_key, data, function(err,res){ // SET CACHE HERE
-                                fs.unlink(cache_key, function(err){
-                                  if (err) throw err;
-                                })
-                              }); 
-                          });
-                      }
-                  });              
-                }
-              });
+                    // CACHE LIKE A WEIRDO
+                    fs.writeFile(cache_key, buffer, function (err) {
+                        if (err) {
+                            console.log("Error on write: " + err)
+                        } else {
+                            fs.readFile(cache_key, function (err, data) {
+                                if (err) throw err
+                                redis.set(cache_key, data, function(err,res){ // SET CACHE HERE
+                                  fs.unlink(cache_key, function(err){
+                                    if (err) throw err;
+                                  })
+                                }); 
+                            });
+                        }
+                    });              
+                  }
+                });
+              } catch (err) {
+                send_bad_tile(res)
+                console.log("table doesn't exist? " + err); //DEBUG                                   
+              }
             });
           }
         })
@@ -177,6 +182,32 @@ module.exports = connect.createServer(
   })  
 );
 
+
+function send_bad_tile(res){    
+  bad_tile_key = "bad_tile"  
+    
+  redis.get(bad_tile_key, function(err,buffer){
+    if (_.isNull(buffer)){    
+      fs.readFile(global.settings.bad_tile, function (err, data) {
+        if (err) throw err
+        res.statusCode = 500;
+        res.setHeader('Content-Type', 'image/png');        
+        res.end(data);            
+        redis.set(bad_tile_key, data, function(err,res){})
+      });      
+    } else {
+      res.statusCode = 500;
+      res.setHeader('Content-Type', 'image/png');        
+      res.end(buffer);                  
+    }
+  })
+}
+
+function send_good_tile(res, buffer){
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'image/png');        
+  res.end(buffer);        
+}
 
 
 function style_key(args){
