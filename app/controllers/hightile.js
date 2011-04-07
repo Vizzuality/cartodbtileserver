@@ -247,7 +247,7 @@ function generate_map_stylesheet(args, callback){
   mml = global.settings.carto
         
   // SET DATABASE NAME
-  mml.Layer[0].Datasource.dbname = global.settings.db_base_name.replace(/{user_id}/i,args.user_id)
+  mml.Layer[0].Datasource.dbname = global.environment.db_base_name.replace(/{user_id}/i,args.user_id)
 
   // SET TABLE NAME
   mml.Layer[0].Datasource.table = unescape(args.sql)

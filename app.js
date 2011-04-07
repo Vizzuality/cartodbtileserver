@@ -8,6 +8,7 @@
 * servers: [hightile]
 *
 */
+var _ = require('underscore');
 
 // sanity check arguments
 var ENV = process.argv[2]
