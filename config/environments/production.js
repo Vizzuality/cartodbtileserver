@@ -14,8 +14,8 @@ module.exports.postgis = {
     'user'            : 'postgres',
     'host'            : '10.211.14.63',
     'type'            : 'postgis',
-    'geometry_field'  : 'the_geom',
-    'srid'            : 3785,
+    'geometry_field'  : 'the_geom_webmercator',
+    'srid'            : 3857,
     'extent'          : '-20005048.4188,-9039211.13765,19907487.2779,17096598.5401',    
     'max_size'        : 1    
 };
@@ -37,9 +37,9 @@ module.exports.carto = {
 						"dbname":"xxx",
             "user": "postgres",
             "table": "xxx",
-            "geometry_field": "the_geom",
+            "geometry_field": "the_geom_webmercator",
             "extent": "-20005048.4188,-9039211.13765,19907487.2779,17096598.5401",
-            "srid": 3785,
+            "srid": 3857,
             "max_size": 1
         }
     }]

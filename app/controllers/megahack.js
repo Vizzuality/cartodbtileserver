@@ -5,6 +5,7 @@
 var mapnik = require('mapnik')
   , mercator = require('mapnik/sphericalmercator')
   , connect = require('connect')
+  , http = require('http')
   , url = require('url')
   , fs = require('fs')
   , crypto = require('crypto')
@@ -37,6 +38,45 @@ module.exports = connect.createServer(
           }  
       });      
     });
+
+    // MAKE ME ASYNCH
+    // app.get('/tiles/prime/:user_id/:sql/:style', function(req,res,next){
+    //   var z_min = 1
+    //   var z_max = 4
+    //   
+    //   for (var z = z_min; z <= z_max; z++){
+    //     var x_max = Math.pow(2,z)
+    //     var y_max = Math.pow(2,z)
+    //     
+    //     for (var x = 0; x < x_max; x++){
+    //       for (var y = 0; y < y_max; y++){
+    //         var cache_path = '/tiles/' 
+    //                         + x 
+    //                         + '/' + y 
+    //                         + '/' + z 
+    //                         + '/' + req.params.user_id 
+    //                         + '/' + req.params.sql 
+    //                         + '/' + req.params.style
+    //         
+    //         var options = {
+    //           host: 'localhost',
+    //           port: 3000,
+    //           path: cache_path,
+    //           method: 'GET'
+    //         };
+    // 
+    //         var req1 = http.request(options, function(res1) {
+    //           console.log('CACHE_PRIME: ' + res1.statusCode + " : " + cache_path);
+    //           req1.end()
+    //         });
+    //       }
+    //     }        
+    //   }
+    //   res.statusCode = 200;
+    //   res.setHeader('Content-Type', 'text/javascript');        
+    //   res.end(JSON.stringify({status: 'ok', message: 'primetime!'}));            
+    // });
+
     
     // FIXME: TILE STYLE API URL
     app.get('/tiles/styles/:user_id/:table_name', function(req, res, next){
