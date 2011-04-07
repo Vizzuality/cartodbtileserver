@@ -1,6 +1,6 @@
 var cluster = require('cluster');
 
-cluster('./app/controllers/cached_carto_tiler')
+cluster('./app/controllers/hightile')
   .use(cluster.logger('logs/tiler'))
   .use(cluster.pidfiles('pids/tiler'))
   .use(cluster.debug())

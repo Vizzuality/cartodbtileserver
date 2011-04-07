@@ -1,4 +1,4 @@
-# Tileserver for CartoDB that combines nodejs, mapnik, and postgis.
+# Tileserver for CartoDB that combines nodejs, mapnik, and postgis with a redis tile cache.
 
 
 ## Depends
@@ -53,22 +53,9 @@
 
   
   Start the server by typing:
-  
-    $ ./run.sh
     
-  Or:
-  
-    $ node app.js
+    $ node app.js development hightile
     
-  Then visit http://localhost:3000/. Choose a style type and a postgis subquery.
-
-
-## A note on styles
-
-  Mapnik supports applying arbitrary styles to layers, but for the results 
-  to be reasonable you have to apply reasonable styles. For example a PointSymbolizer
-  will work against either point geometries or polygon geometries, but a PolygonSymbolizer
-  will not render anything if applied to point geometries.
-
+  Then visit http://localhost:3000/. Choose a style type and a postgis table.
 
   
