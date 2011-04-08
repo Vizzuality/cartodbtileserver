@@ -22,7 +22,7 @@ var tile_url = '/tiles/{X}/{Y}/{Z}';
 
 // local tile server
 var layer = po.image()
-              .url(po.url(tile_url + '/1/madrid_bars/point'));
+              .url(po.url(tile_url + '/1/madrid_bars/point/'));
 
 map.add(layer);
 
@@ -44,7 +44,7 @@ var update_tiles = function() {
      style = 'polygon';
   if (document.forms[0][2].checked)
      style = 'line';
-  layer.url(po.url(tile_url + '/1/' + escape(sql) + '/' + style))
+  layer.url(po.url(tile_url + '/1/' + escape(sql) + '/' + style + "/"))
      .reload();
   console.log(sql);
 };

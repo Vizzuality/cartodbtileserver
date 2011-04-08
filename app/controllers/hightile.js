@@ -47,13 +47,7 @@ module.exports = connect.createServer(
 
       var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
       
-      var cache_key = "tile_cache" + ":"
-                + params.x + ":" 
-                + params.y + ":" 
-                + params.z + ":" 
-                + params.user_id + ":" 
-                + params.sql + ":" 
-                + params.style;
+      var cache_key = "tile_cache:" + JSON.stringify(params)
       
       try {
         redis.get(cache_key, function(err,buffer){
@@ -126,7 +120,13 @@ function send_bad_tile(res){
 }
 
 function style_key(args){
-  return "tile_style:user:" + args.user_id + ":table_name:" + args.table_name + ":style_key:" + args.style
+  return "tile_style:user:" + args.user_id 
+                            + ":table_name:"
+                            + args.table_name 
+                            + ":geom_type:" 
+                            + args.geom_type 
+                            + ":style_key:" 
+                            + args.style
 }
 
 function safe_hash(val){
@@ -216,7 +216,7 @@ function get_style(args){
     , 'marker-allow-overlap': true
   }
   
-  polygon_style = {
+  polygon_style = {    
      'polygon-fill': '#FF6600'
   }
 
