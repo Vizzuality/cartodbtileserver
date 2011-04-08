@@ -62,7 +62,7 @@ module.exports = connect.createServer(
 
             // CREATE MAP
             var map = new mapnik.Map(256, 256, mercator.srs);
-            map.buffer_size(50);
+            map.buffer_size(50);              
 
             // GET XML STYLESHEET FROM CACHE OR COMPILE
             
