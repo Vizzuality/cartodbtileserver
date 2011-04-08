@@ -171,21 +171,9 @@ function generate_map_stylesheet(args, callback){
 
   // SET TABLE NAME  
   if (args.sql){
-    sql = unescape(args.sql)
-    sql = sql.replace(/\'/g,"&#39;"); 
-    sql = sql.replace(/\"/g,"&quot;");
-    sql = sql.replace(/</g,"&lt;");
-    sql = sql.replace(/>/g,"&gt;");
-    console.log(sql);
-    mml.Layer[0].Datasource.table = sql
+    mml.Layer[0].Datasource.table = clean_sql(args.sql)
   } else {
-    sql = unescape(args.table_name)
-    sql = sql.replace(/\'/g,"&#39;"); 
-    sql = sql.replace(/\"/g,"&quot;");
-    sql = sql.replace(/</g,"&lt;");
-    sql = sql.replace(/>/g,"&gt;");
-    console.log(sql);    
-    mml.Layer[0].Datasource.table = sql
+    mml.Layer[0].Datasource.table = clean_sql(args.table_name)
   }  
                 
   // SET LAYER SRS
@@ -218,8 +206,13 @@ function generate_map_stylesheet(args, callback){
   }
 }
 
-function clean_sql(text){
-  
+function clean_sql(sql){
+  sql = unescape(sql)
+  sql = sql.replace(/\'/g,"&#39;"); 
+  sql = sql.replace(/\"/g,"&quot;");
+  sql = sql.replace(/</g,"&lt;");
+  sql = sql.replace(/>/g,"&gt;");
+  return sql
 }
 
 
@@ -237,7 +230,11 @@ function get_style(args){
   }
   
   polygon_style = {    
-     'polygon-fill': '#FF6600'
+       'polygon-fill': '#FF6600'
+     , 'polygon-opacity': 0.8
+     , 'line-color': '#FFFFFF'
+     , 'line-width': '1'
+     , 'line-opacity': '1'
   }
 
   if(args.geom_type == 'multipolygon' || args.geom_type == 'polygon'){
