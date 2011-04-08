@@ -207,12 +207,13 @@ function generate_map_stylesheet(args, callback){
 }
 
 function clean_sql(sql){
-  // sql =   
-  // sql = sql.replace(/\'/g,"&#39;"); 
-  // sql = sql.replace(/\"/g,"&quot;");
-  // sql = sql.replace(/</g,"&lt;");
-  // sql = sql.replace(/>/g,"&gt;");
-  return '<![CDATA[' + unescape(sql) + ']]>'
+  sql = unescape(sql) 
+  sql = sql.replace(/\'/g,"&#39;"); 
+  sql = sql.replace(/\"/g,"&quot;");
+  sql = sql.replace(/</g,"&lt;");
+  sql = sql.replace(/>/g,"&gt;");
+  return sql
+  //return '<![CDATA[' + unescape(sql) + ']]>'
 }
 
 
