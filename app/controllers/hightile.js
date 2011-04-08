@@ -47,7 +47,7 @@ module.exports = connect.createServer(
 
       var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
       
-      var cache_key = "tile_cache:" + JSON.stringify(params)
+      var cache_key = "tile_cache:" + safe_hash(params)
       
       try {
         redis.get(cache_key, function(err,buffer){
