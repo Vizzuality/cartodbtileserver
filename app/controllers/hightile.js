@@ -218,6 +218,11 @@ function generate_map_stylesheet(args, callback){
   }
 }
 
+function clean_sql(text){
+  
+}
+
+
 function get_style(args){
   point_style = {
       'marker-fill':'#FF6600'
@@ -235,7 +240,7 @@ function get_style(args){
      'polygon-fill': '#FF6600'
   }
 
-  if(args.geom_type == 'polygon'){
+  if(args.geom_type == 'multipolygon' || args.geom_type == 'polygon'){
     base_style = polygon_style
   } else {
     base_style = point_style
