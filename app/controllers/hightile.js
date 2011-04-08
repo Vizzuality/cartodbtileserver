@@ -35,19 +35,25 @@ module.exports = connect.createServer(
       });      
     });
 
+
     // Tile style set URL    
     // Tile styles get URL
     
-    // TILE REQUEST URL
-    app.get('/tiles/:x/:y/:z/:user_id/:sql/:style', function(req, res, next){      
+    
+    // Extra possible params
+    // sql
+    // style    
+    app.get('/tiles/:x/:y/:z/:user_id/:table_name/:geom_type/', function(req, res, next){      
 
+      var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
+      
       var cache_key = "tile_cache" + ":"
-                + req.params.x + ":" 
-                + req.params.y + ":" 
-                + req.params.z + ":" 
-                + req.params.user_id + ":" 
-                + req.params.sql + ":" 
-                + req.params.style;
+                + params.x + ":" 
+                + params.y + ":" 
+                + params.z + ":" 
+                + params.user_id + ":" 
+                + params.sql + ":" 
+                + params.style;
       
       try {
         redis.get(cache_key, function(err,buffer){
@@ -56,9 +62,9 @@ module.exports = connect.createServer(
           } else {
                         
             // CALCULATE BBOX FOR RENDER STEP
-            var bbox = mercator.xyz_to_envelope(parseInt(req.params.x),
-                                                parseInt(req.params.y),
-                                                parseInt(req.params.z), false);
+            var bbox = mercator.xyz_to_envelope(parseInt(params.x),
+                                                parseInt(params.y),
+                                                parseInt(params.z), false);
 
             // CREATE MAP
             var map = new mapnik.Map(256, 256, mercator.srs);
@@ -67,7 +73,7 @@ module.exports = connect.createServer(
             // GET XML STYLESHEET FROM CACHE OR COMPILE
             
             //this should be get_tile and should return a Tile object, itself a child of Map
-            get_map_stylesheet(req.params, function(err, map_xml){
+            get_map_stylesheet(params, function(err, map_xml){
               if (err) throw "Bad map stylesheet"
 
               try {                
@@ -120,7 +126,7 @@ function send_bad_tile(res){
 }
 
 function style_key(args){
-  return "tile_style:user:" + args.user_id + ":sql:" + args.sql + ":style:" + safe_hash(args.style)
+  return "tile_style:user:" + args.user_id + ":table_name:" + args.table_name + ":style_key:" + args.style
 }
 
 function safe_hash(val){
@@ -160,17 +166,21 @@ function generate_map_stylesheet(args, callback){
   mml.Layer[0].Datasource.host   = global.settings.db_host
   mml.Layer[0].Datasource.dbname = global.settings.db_base_name.replace(/{user_id}/i,args.user_id)
 
-  // SET TABLE NAME
-  mml.Layer[0].Datasource.table = unescape(args.sql)
+  // SET TABLE NAME  
+  if (args.sql){
+    mml.Layer[0].Datasource.table = unescape(args.sql)
+  } else {
+    mml.Layer[0].Datasource.table = args.table_name
+  }  
                 
   // SET LAYER SRS
   mml.Layer[0].srs = mercator.srs
       
   // SET LAYER STYLE ID - UPDATE
-  mml.Layer[0].name = 'point'
+  mml.Layer[0].name = 'style'
   
   // SET CSS - either get from cache store here, or choose default based on geom_type arg
-  mml.Stylesheet[0].data = point_cartocss(args.style)
+  mml.Stylesheet[0].data = get_style(args)  
       
   // RENDER CARTO MML TO XML
   try {
@@ -193,8 +203,8 @@ function generate_map_stylesheet(args, callback){
   }
 }
 
-function point_cartocss(style){  
-  base_point_style = {
+function get_style(args){
+  point_style = {
       'marker-fill':'#FF6600'
     , 'marker-opacity': 1
     , 'marker-width': 8
@@ -204,23 +214,33 @@ function point_cartocss(style){
     , 'marker-placement': 'point'
     , 'marker-type': 'ellipse'
     , 'marker-allow-overlap': true
-    //, 'polygon-fill': '#FF6600'
-  }  
+  }
+  
+  polygon_style = {
+     'polygon-fill': '#FF6600'
+  }
 
+  if(args.geom_type == 'polygon'){
+    base_style = polygon_style
+  } else {
+    base_style = point_style
+  }
+
+  // merge with supplied style if it exists
   try {
-    requested_style = JSON.parse(style)
+    requested_style = JSON.parse(args.style)
   } catch (err) {
     requested_style = {}
   }
-
-  merged_style = _.extend(base_point_style, requested_style)
-  carto_css_point = "#point{"
+  
+  merged_style = _.extend(base_style, requested_style)
+  carto_css = "#style{"
   _.each(merged_style, function(val, key){
-    carto_css_point += key + ":" + val + ";"
+    carto_css += key + ":" + val + ";"
   })
-  carto_css_point += "}"
+  carto_css += "}"
       
-  return carto_css_point
+  return carto_css  
 }
 
 // Cache tile like a weirdo

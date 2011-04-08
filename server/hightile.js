@@ -8,3 +8,6 @@ cluster('./app/controllers/hightile')
 //  .use(cluster.cli())
   .listen(global.environment.carto_port);
 
+
+// var cluster = require('../app/controllers/hightile');
+// cluster.listen(3000);
