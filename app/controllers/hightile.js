@@ -233,7 +233,7 @@ function get_style(args){
        'polygon-fill': '#FF6600'
      , 'polygon-opacity': 0.8
      , 'line-color': '#FFFFFF'
-     , 'line-width': '1'
+     , 'line-width': '0.2'
      , 'line-opacity': '1'
   }
 
