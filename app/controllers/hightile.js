@@ -170,7 +170,7 @@ function generate_map_stylesheet(args, callback){
   if (args.sql){
     mml.Layer[0].Datasource.table = unescape(args.sql)
   } else {
-    mml.Layer[0].Datasource.table = args.table_name
+    mml.Layer[0].Datasource.table = unescape(args.table_name)
   }  
                 
   // SET LAYER SRS
