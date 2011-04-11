@@ -62,8 +62,7 @@ module.exports = connect.createServer(
                                                 parseInt(params.z), false);
 
             // CREATE MAP
-            var map = new mapnik.Map(256, 256, mercator.srs);
-            map.buffer_size(50);              
+            var map = new mapnik.Map(256, 256, mercator.srs);              
 
             // GET XML STYLESHEET FROM CACHE OR COMPILE
             
@@ -72,6 +71,7 @@ module.exports = connect.createServer(
               if (err) throw "Bad map stylesheet"              
               try {     
                 map.from_string(map_xml, global.settings.styles + "/");                
+                map.buffer_size(128);
                 map.render(bbox, 'png', function(err, buffer) {
                   if (err) throw err
                   return_tile(res, 200, buffer);
@@ -263,16 +263,18 @@ function get_style(args){
 // Cache tile like a weirdo
 // Perhaps I'll understand this one day
 function weird_cache(cache_key, buffer){
-  var individual_key =  Math.floor((Math.random() * 1000000)).toString() + cache_key
-
-  fs.writeFile(individual_key, buffer, function (err) {
+  fs.writeFile(cache_key, buffer, function (err) {
     if (err) throw err
-    fs.readFile(individual_key, function (err, data) {
+    fs.readFile(cache_key, function (err, data) {
         if (err) throw err
-        redis.set(individual_key, data, function(err,res){
-          fs.unlink(individual_key, function(err){
-            if (err) throw err;
-          })
+        redis.set(cache_key, data, function(err,res){
+          try{
+            fs.unlink(cache_key, function(err){          
+              if (err) throw err;
+            });            
+          } catch (err) {
+            console.log("failed to delete cache: " + err);
+          }
         }); 
     });
   });
