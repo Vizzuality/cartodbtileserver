@@ -232,9 +232,9 @@ function get_style(args){
   polygon_style = {    
        'polygon-fill': '#FF6600'
      , 'polygon-opacity': 0.7
-     , 'line-color': '#FFFFFF'
-     , 'line-width': '0.2'
-     , 'line-opacity': '0.8'
+     // , 'line-color': '#FFFFFF'
+     // , 'line-width': '0.2'
+     // , 'line-opacity': '0.8'
   }
 
   if(args.geom_type == 'multipolygon' || args.geom_type == 'polygon'){
