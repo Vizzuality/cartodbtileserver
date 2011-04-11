@@ -69,19 +69,18 @@ module.exports = connect.createServer(
             
             //this should be get_tile and should return a Tile object, itself a child of Map
             get_map_stylesheet(params, function(err, map_xml){
-              if (err) throw "Bad map stylesheet"
-
-              try {                
-                map.from_string(map_xml, global.settings.styles + "/");
+              if (err) throw "Bad map stylesheet"              
+              try {     
+                map.from_string(map_xml, global.settings.styles + "/");                
                 map.render(bbox, 'png', function(err, buffer) {
                   if (err) throw err
-                  return_tile(res, 200, buffer)
-                  weird_cache(cache_key, buffer)                                                 
-                });
+                  return_tile(res, 200, buffer);
+                  weird_cache(cache_key, buffer);                                                 
+                });                  
               } catch (err) {
                 send_bad_tile(res)
                 console.log("table doesn't exist? " + err); //DEBUG                                   
-              }
+              }                      
             });
           }
         })
@@ -233,9 +232,9 @@ function get_style(args){
   polygon_style = {    
        'polygon-fill': '#FF6600'
      , 'polygon-opacity': 0.7
-     , 'line-color': '#FFFFFF'
-     , 'line-width': '0.2'
-     , 'line-opacity': '0.8'
+     // , 'line-color': '#FFFFFF'
+     // , 'line-width': '0.2'
+     // , 'line-opacity': '0.8'
   }
 
   if(args.geom_type == 'multipolygon' || args.geom_type == 'polygon'){
@@ -264,12 +263,14 @@ function get_style(args){
 // Cache tile like a weirdo
 // Perhaps I'll understand this one day
 function weird_cache(cache_key, buffer){
-  fs.writeFile(cache_key, buffer, function (err) {
+  var individual_key =  Math.floor((Math.random() * 1000000)).toString() + cache_key
+
+  fs.writeFile(individual_key, buffer, function (err) {
     if (err) throw err
-    fs.readFile(cache_key, function (err, data) {
+    fs.readFile(individual_key, function (err, data) {
         if (err) throw err
-        redis.set(cache_key, data, function(err,res){
-          fs.unlink(cache_key, function(err){
+        redis.set(individual_key, data, function(err,res){
+          fs.unlink(individual_key, function(err){
             if (err) throw err;
           })
         }); 
