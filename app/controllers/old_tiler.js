@@ -67,7 +67,7 @@ module.exports = connect.createServer(
         map.add_layer(layer);
   
         // LOG MAP WITH toString()
-        console.log(map.toXML());
+        //console.log(map.toXML());
         
         // RENDER MAP AS PNG
         map.render(bbox, 'png', function(err, buffer) {
