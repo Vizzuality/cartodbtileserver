@@ -26,18 +26,11 @@
   marker-line-width: 2;
 }
 
-#style[mean_lateness>10][mean_lateness<20]{
+#style[mean_lateness>1][mean_lateness<20]{
   marker-fill:#FF6600;
  	marker-opacity: 0.8;
   marker-width: 5;
   marker-line-width: 1;
-}
-
-#style[mean_lateness>1][mean_lateness<10]{
-  marker-fill:yellow;
- 	marker-opacity: 0.8;
-  marker-width: 3;
-  marker-line-width: 0;
 }
 
 #style{
