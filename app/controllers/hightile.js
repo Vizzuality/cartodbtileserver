@@ -73,7 +73,7 @@ module.exports = connect.createServer(
                 map.from_string(map_xml, global.settings.styles + "/");       
                 map.buffer_size(128);
                 
-                console.log(map.toXML());
+                //console.log(map.toXML());
                 map.render(bbox, 'png', function(err, buffer) {
                   if (err) throw err
                   return_tile(res, 200, buffer);
@@ -241,7 +241,7 @@ function get_style(args){
   
   if (args.table_name === "late_planes"){
     sergios = fs.readFileSync(path.join(__dirname, '../styles/sergio_demo.mss'));
-    console.log(sergios.toString());
+    //console.log(sergios.toString());
     return sergios.toString();
         
   } else {
