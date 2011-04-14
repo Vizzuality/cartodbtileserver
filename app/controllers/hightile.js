@@ -70,8 +70,10 @@ module.exports = connect.createServer(
             get_map_stylesheet(params, function(err, map_xml){
               if (err) throw "Bad map stylesheet"              
               try {     
-                map.from_string(map_xml, global.settings.styles + "/");                
+                map.from_string(map_xml, global.settings.styles + "/");       
                 map.buffer_size(128);
+                
+                console.log(map.toXML());
                 map.render(bbox, 'png', function(err, buffer) {
                   if (err) throw err
                   return_tile(res, 200, buffer);
@@ -236,28 +238,35 @@ function get_style(args){
      // , 'line-width': '0.2'
      // , 'line-opacity': '0.8'
   }
-
-  if(args.geom_type == 'multipolygon' || args.geom_type == 'polygon'){
-    base_style = polygon_style
-  } else {
-    base_style = point_style
-  }
-
-  // merge with supplied style if it exists
-  try {
-    requested_style = JSON.parse(args.style)
-  } catch (err) {
-    requested_style = {}
-  }
   
-  merged_style = _.extend(base_style, requested_style)
-  carto_css = "#style{"
-  _.each(merged_style, function(val, key){
-    carto_css += key + ":" + val + ";"
-  })
-  carto_css += "}"
-      
-  return carto_css  
+  if (args.table_name === "esp_adm4_shp"){
+    sergios = fs.readFileSync(path.join(__dirname, '../styles/poly_demo.mss'));
+    console.log(sergios.toString());
+    return sergios.toString();
+        
+  } else {
+    if(args.geom_type == 'multipolygon' || args.geom_type == 'polygon'){
+      base_style = polygon_style
+    } else {
+      base_style = point_style
+    }
+
+    // merge with supplied style if it exists
+    try {
+      requested_style = JSON.parse(args.style)
+    } catch (err) {
+      requested_style = {}
+    }
+
+    merged_style = _.extend(base_style, requested_style)
+    carto_css = "#style{"
+    _.each(merged_style, function(val, key){
+      carto_css += key + ":" + val + ";"
+    })
+    carto_css += "}"
+
+    return carto_css      
+  }
 }
 
 // Cache tile like a weirdo
