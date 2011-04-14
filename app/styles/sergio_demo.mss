@@ -1,15 +1,13 @@
 [zoom>0][zoom<4]{
-	#style{
-	 marker-fill:green;
-	 marker-opacity: 0.4;
-	 marker-width: 3;
-	 marker-line-color: white;
-	 marker-line-width: 0;
-	 marker-line-opacity: 1;
-	 marker-placement: point;
-	 marker-type: ellipse;
-	 marker-allow-overlap: true;
-	}
+	marker-fill:green;
+	marker-opacity: 0.4;
+	marker-width: 3;
+	marker-line-color: white;
+	marker-line-width: 0;
+	marker-line-opacity: 1;
+	marker-placement: point;
+	marker-type: ellipse;
+	marker-allow-overlap: true;
 
 
 	#style[mean_lateness>80][mean_lateness<100]{
