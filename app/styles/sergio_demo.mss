@@ -1,5 +1,5 @@
-@midzoom: 2
-@topzoom: 4
+@midzoom: 2;
+@topzoom: 4;
 
 [zoom>0][zoom<4]{
 	#style[mean_lateness>80][mean_lateness<100]{
