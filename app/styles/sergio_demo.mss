@@ -36,7 +36,7 @@
 #style[mean_lateness>1][mean_lateness<10]{
   marker-fill:#FF8800;
  	marker-opacity: 0.8;
-  marker-width: 2.5;
+  marker-width: 3;
   marker-line-width: 0.5;
 }
 
