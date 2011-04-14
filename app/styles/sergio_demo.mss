@@ -1,3 +1,5 @@
+
+
 #style[mean_lateness>80][mean_lateness<100]{
   marker-fill:red;
  	marker-opacity: 0.8;
@@ -36,7 +38,7 @@
 #style[mean_lateness>1][mean_lateness<10]{
   marker-fill:#FF8800;
  	marker-opacity: 0.8;
-  marker-width: 3;
+  marker-width: 4;
   marker-line-width: 0.5;
 }
 
