@@ -59,6 +59,16 @@
 
 
 [zoom>3][zoom<8]{
+	marker-fill:green;
+	marker-opacity: 0.4;
+	marker-width: 6;
+	marker-line-color: white;
+	marker-line-width: 0;
+	marker-line-opacity: 1;
+	marker-placement: point;
+	marker-type: ellipse;
+	marker-allow-overlap: true;
+
 	#style[mean_lateness>80][mean_lateness<100]{
 	  marker-fill:red;
 	 	marker-opacity: 0.8;
@@ -100,19 +110,6 @@
 	  marker-width: 8;
 	  marker-line-width: 0.5;
 	}
-
-
-	#style{
-	 marker-fill:green;
-	 marker-opacity: 0.4;
-	 marker-width: 6;
-	 marker-line-color: white;
-	 marker-line-width: 0;
-	 marker-line-opacity: 1;
-	 marker-placement: point;
-	 marker-type: ellipse;
-	 marker-allow-overlap: true;
-	}
 }
 
 
@@ -122,6 +119,16 @@
 
 
 [zoom>7]{
+	marker-fill:green;
+	marker-opacity: 0.4;
+	marker-width: 12;
+	marker-line-color: white;
+	marker-line-width: 0;
+	marker-line-opacity: 1;
+	marker-placement: point;
+	marker-type: ellipse;
+	marker-allow-overlap: true;
+
 	#style[mean_lateness>80][mean_lateness<100]{
 	  marker-fill:red;
 	 	marker-opacity: 0.8;
@@ -162,18 +169,5 @@
 	 	marker-opacity: 0.8;
 	  marker-width: 16;
 	  marker-line-width: 0.5;
-	}
-
-
-	#style{
-	 marker-fill:green;
-	 marker-opacity: 0.4;
-	 marker-width: 12;
-	 marker-line-color: white;
-	 marker-line-width: 0;
-	 marker-line-opacity: 1;
-	 marker-placement: point;
-	 marker-type: ellipse;
-	 marker-allow-overlap: true;
 	}
 }
