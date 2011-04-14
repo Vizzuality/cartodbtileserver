@@ -239,8 +239,8 @@ function get_style(args){
      // , 'line-opacity': '0.8'
   }
   
-  if (args.table_name === "esp_adm4_shp"){
-    sergios = fs.readFileSync(path.join(__dirname, '../styles/poly_demo.mss'));
+  if (args.table_name === "late_planes"){
+    sergios = fs.readFileSync(path.join(__dirname, '../styles/sergio_demo.mss'));
     console.log(sergios.toString());
     return sergios.toString();
         
