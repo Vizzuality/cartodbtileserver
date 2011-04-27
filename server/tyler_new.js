@@ -1,6 +1,6 @@
 var cluster = require('cluster');
 
-cluster('./app/controllers/hightile')
+cluster('./app/controllers/tyler_new')
   .use(cluster.logger('logs/tiler'))
   .use(cluster.pidfiles('pids/tiler'))
   .use(cluster.debug())
@@ -9,5 +9,5 @@ cluster('./app/controllers/hightile')
   .listen(global.environment.carto_port);
 
 
-// var cluster = require('../app/controllers/hightile');
+// var cluster = require('../app/controllers/tyler');
 // cluster.listen(3000);

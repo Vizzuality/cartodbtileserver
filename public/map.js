@@ -10,6 +10,9 @@ var map = po.map()
     .add(po.dblclick())
     .add(po.hash());
 
+
+
+var tile_url = '/tiles/{X}/{Y}/{Z}';
 // mapquest's mapnik tiles
 map.add(po.image()
     // .url(po.url('http://otile{S}.mqcdn.com/tiles/1.0.0/osm/'
@@ -18,13 +21,12 @@ map.add(po.image()
     .hosts(['a', 'b', 'c'])));
 
 
-var tile_url = '/tiles/{X}/{Y}/{Z}';
-
 // local tile server
 var layer = po.image()
-              .url(po.url(tile_url + '/1/madrid_bars/point/'));
+              .url(po.url(tile_url + '/users/1/layers/madrid_bars/'));
 
 map.add(layer);
+
 
 
 var setVal = function(value)

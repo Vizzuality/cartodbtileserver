@@ -1,4 +1,4 @@
-// Hightile
+// Tyler
 // ========
 // 
 // A basic RESTful carto.css tileserver for CartoDB
@@ -66,14 +66,13 @@ module.exports = connect.createServer(
 
             // GET XML STYLESHEET FROM CACHE OR COMPILE
             
-            //this should be get_tile and should return a Tile object, itself a child of Map
+            //this should be get_tile and should return a Tile object, which contains a Map from the map pool
             get_map_stylesheet(params, function(err, map_xml){
               if (err) throw "Bad map stylesheet"              
               try {     
                 map.from_string(map_xml, global.settings.styles + "/");       
                 map.buffer_size(128);
                 
-                //console.log(map.toXML());
                 map.render(bbox, 'png', function(err, buffer) {
                   if (err) throw err
                   return_tile(res, 200, buffer);
@@ -193,9 +192,11 @@ function generate_map_stylesheet(args, callback){
         if (err) {
             if (Array.isArray(err)) {
                 err.forEach(function(e) {
-                    carto.writeError(e)
+                  console.log("carto css error: " + e);
+                    //carto.writeError(e)
                 });
             }
+            console.log("carto css error: " + err);
             process.exit(1)
         } else {
           callback(null, output)

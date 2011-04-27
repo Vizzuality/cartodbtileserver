@@ -1,13 +1,13 @@
 #!/usr/bin/env node
 
 /*
-* HighTile loader
+* Tyler loader
 * ===============
 *
 * node app [environment] [server]
 *
 * environments: [development, production] 
-* servers: [hightile]
+* servers: [tyler]
 *
 */
 var _ = require('underscore');
@@ -15,9 +15,9 @@ var _ = require('underscore');
 // sanity check arguments
 var ENV = process.argv[2]
 var APP = process.argv[3]
-if ((ENV != 'development' && ENV != 'production') || (APP != 'hightile' )){
+if ((ENV != 'development' && ENV != 'production') || (APP != 'tyler' && APP != 'tyler_new' )){
   console.error("\nnode app [environment] [server]");
-  console.error("environments: [development, production], servers: [hightile]\n");
+  console.error("environments: [development, production], servers: [tyler, tyler_new]\n");
   process.exit(1);
 }
 
