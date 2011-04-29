@@ -22,11 +22,7 @@ module.exports = connect.createServer(
 , connect.static(__dirname + '/../../public/', { maxAge: global.settings.oneDay })
   
 , connect.router(function(app){
-  
-
-    // Tile style set URL    
-    // Tile styles get URL    
-    
+      
     // Extra possible params
     // sql
     // style    

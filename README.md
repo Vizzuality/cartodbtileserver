@@ -1,4 +1,4 @@
-# Tileserver for CartoDB that combines nodejs, mapnik, and postgis with a redis tile cache.
+# Tyler. A simple nodejs postgis maptile server
 
 
 ## Depends
@@ -54,7 +54,7 @@
   
   Start the server by typing:
     
-    $ node app.js development hightile
+    $ node app.js development tyler_new
     
   Then visit http://localhost:3000/. Choose a style type and a postgis table.
 
