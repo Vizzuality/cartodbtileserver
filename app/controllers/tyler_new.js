@@ -53,9 +53,11 @@ module.exports = connect.createServer(
       var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
       Tyler.Style.create(params.user_id, params.style, function(style_k){          
         style_key = style_k;
-        Tyler.Style.set_default(params.user_id, params.layer_id, style_key.id, function(data){        
-          res.writeHead(200, {'Content-Type': 'application/json'});
-          res.end(params.callback + "(" + JSON.stringify({status:"ok", style_key:style_key}) + ")");
+        Tyler.Style.set_default(params.user_id, params.layer_id, style_key.id, function(data){  
+          Tyler.MapPool.reset(params, function(){
+            res.writeHead(200, {'Content-Type': 'application/json'});
+            res.end(params.callback + "(" + JSON.stringify({status:"ok", style_key:style_key}) + ")");            
+          })      
        });
       });      
     });

@@ -5,6 +5,7 @@ cluster('./app/controllers/tyler_new')
   .use(cluster.pidfiles('pids/tiler'))
   .use(cluster.debug())
   .use(cluster.stats())
+  .set('workers', 1)
 //  .use(cluster.cli())
   .listen(global.environment.carto_port);
 
