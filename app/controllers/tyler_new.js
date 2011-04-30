@@ -13,8 +13,10 @@ var mapnik    = require('mapnik')
   , Tyler     = require(path.join(__dirname, '../../lib/tyler'))
   , url       = require('url')
   , fs        = require('fs')
-  , crypto    = require('crypto');
+  , crypto    = require('crypto')
+  , spawn     = require('child_process').spawn;
 
+  
 module.exports = connect.createServer(  
   
   connect.logger('\033[90m:method\033[0m \033[36m:url\033[0m \033[90m:status :response-timems -> :res[Content-Type]\033[0m')
@@ -32,16 +34,33 @@ module.exports = connect.createServer(
       var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
             
       try {
+        var pngquant  = spawn('pngnq', ['-n 256', '-s 10']);        
         var tile = new Tyler.Tile(params);
         tile.render(function(buffer){        
-          res.writeHead(200, {'Content-Type': 'image/png'});
-          res.end(buffer);
+          // res.writeHead(200, {'Content-Type': 'image/png'});
+          // res.end(buffer);
+
+          pngquant.stdin.write(buffer);          
         });
       } 
       catch (err) {        
         res.writeHead(500, {'Content-Type': 'text/plain'});        
         res.end(err.message);
       }
+            
+      pumpToBuffer(pngquant, function (er, buffer) {
+        res.writeHead(200, {'Content-Type': 'image/png'});
+        res.end(buffer);
+      })
+      // pngquant.stdout.on('data', function(data){
+      //   res.write(data);
+      // });
+      // 
+      // pngquant.on('exit', function (code) {
+      //   res.writeHead(200, {'Content-Type': 'image/png'});
+      //   res.end();
+      // });
+      
     });
     
     
@@ -75,3 +94,25 @@ module.exports = connect.createServer(
   })  
 );
 
+
+function pumpToBuffer (readStream, cb) {
+ var errState = null
+   , chunks = []
+   , length = 0
+ readStream.stdout.on("error", function (er) { cb(errState = er) })
+ readStream.stdout.on("data", function (chunk) {
+   if (errState) return
+   chunks.push(chunk)
+   length += chunk.length
+ })
+ readStream.on("exit", function () {
+   if (errState) return
+   var buf = new Buffer(length)
+     , i = 0
+   chunks.forEach(function (b) {
+     b.copy(buf, i, 0, b.length)
+     i += b.length
+   })
+   cb(null, buf)
+ })
+}
