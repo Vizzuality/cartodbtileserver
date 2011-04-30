@@ -37,10 +37,10 @@ module.exports = connect.createServer(
         var pngquant  = spawn('pngnq', ['-n 256', '-s 50']);        
         var tile = new Tyler.Tile(params);
         tile.render(function(buffer){        
-          // res.writeHead(200, {'Content-Type': 'image/png'});
-          // res.end(buffer);
+          res.writeHead(200, {'Content-Type': 'image/png'});
+          res.end(buffer);
 
-          pngquant.stdin.write(buffer);          
+//          pngquant.stdin.write(buffer);          
         });
       } 
       catch (err) {        
