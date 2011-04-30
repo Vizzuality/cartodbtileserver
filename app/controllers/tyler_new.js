@@ -34,7 +34,7 @@ module.exports = connect.createServer(
       var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
             
       try {
-        var pngquant  = spawn('pngnq', ['-n 256', '-s 10']);        
+        var pngquant  = spawn('pngnq', ['-n 256', '-s 50']);        
         var tile = new Tyler.Tile(params);
         tile.render(function(buffer){        
           // res.writeHead(200, {'Content-Type': 'image/png'});
@@ -48,18 +48,18 @@ module.exports = connect.createServer(
         res.end(err.message);
       }
             
-      pumpToBuffer(pngquant, function (er, buffer) {
-        res.writeHead(200, {'Content-Type': 'image/png'});
-        res.end(buffer);
-      })
-      // pngquant.stdout.on('data', function(data){
-      //   res.write(data);
-      // });
-      // 
-      // pngquant.on('exit', function (code) {
+      // pumpToBuffer(pngquant, function (er, buffer) {
       //   res.writeHead(200, {'Content-Type': 'image/png'});
-      //   res.end();
-      // });
+      //   res.end(buffer);
+      // })
+      pngquant.stdout.on('data', function(data){
+        res.write(data);
+      });
+      
+      pngquant.on('exit', function (code) {
+//        res.writeHead(200, {'Content-Type': 'image/png'});
+        res.end();
+      });
       
     });
     
