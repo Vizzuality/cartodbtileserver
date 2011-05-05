@@ -29,7 +29,7 @@ module.exports = connect.createServer(
     // oauth
     app.get('/tiles/:x/:y/:z/users/:user_id/layers/:layer_id', function(req, res, next){      
 
-      var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params    
+      var params = _.extend(url.parse(req.url, true).query,req.params)  // extend path params with query (?) params                    
             
       try {
         var tile = new Tyler.Tile(params);
