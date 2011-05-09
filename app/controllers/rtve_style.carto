@@ -1,0 +1,133 @@
+@red_L: #D82928;
+@red_M: #D94B5F;
+@red_S: #E08394;
+@blue_L: #5AB0E9;
+@blue_M: #64B7DE;
+@blue_S: #90D7F4;
+
+
+#gadm4[shape_area>0.04][zoom > 8] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_L;  
+}
+
+#gadm4[shape_area>0.03][zoom > 8] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_M;  
+}
+
+#gadm4[shape_area>0.02] [shape_area<0.03][zoom > 8] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_S;  
+}
+
+#gadm4[shape_area>0.01] [shape_area<0.02][zoom > 8] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_L;
+}
+
+#gadm4[shape_area>0.0005] [shape_area<0.01][zoom > 8] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_M;  
+}
+
+#gadm4[shape_area<0.0005][zoom > 8]  {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_S;  
+}
+
+#gadm2[zoom > 8] {
+  line-color: #fff;
+  line-width: 2;  
+}
+
+
+//-----------------
+
+#gadm1[shape_area>8][zoom < 7] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_M;  
+}
+
+#gadm1[shape_area>2] [shape_area<8][zoom < 7] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_S;  
+}
+
+#gadm1[shape_area>1] [shape_area<2][zoom < 7] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_L;
+}
+
+#gadm1[shape_area>0.5] [shape_area<1][zoom < 7] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_M;  
+}
+
+#gadm1[shape_area<0.1][zoom < 7]  {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_S;  
+}
+
+#gadm2[zoom < 7] {
+  line-color: #fff;
+  line-width: 0.2;
+  line-opacity:0.5;
+}
+
+
+
+
+//-----------------
+
+#gadm2[shape_area>1.3][zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_M;  
+}
+
+#gadm2[shape_area>1] [shape_area<1.3][zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @red_S;  
+}
+
+#gadm2[shape_area>0.9] [shape_area<1][zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_L;
+}
+
+#gadm2[shape_area>0.8] [shape_area<0.9][zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_M;  
+}
+
+#gadm2[shape_area<0.8][zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 1;
+  polygon-fill: @blue_S;  
+}
+
+#gadm1[zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 1.2;  
+}
+
+#gadm4[zoom < 9] [zoom > 6] {
+  line-color: #fff;
+  line-width: 0.2;  
+  line-opacity:0.5;
+}
