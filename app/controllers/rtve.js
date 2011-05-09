@@ -26,7 +26,7 @@ global.settings     = require(__dirname + '/../../config/settings')
 global.environment  = require(__dirname + '/../../config/environments/' + ENV)
 _.extend(global.settings, global.environment)
 
-var pg = require('pg').native
+var pg = require('pg')
   , mercator = require('mapnik/sphericalmercator')
   , mapnik    = require('mapnik')
   , mercator  = require('mapnik/sphericalmercator')
