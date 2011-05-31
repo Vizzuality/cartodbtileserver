@@ -6,7 +6,7 @@
 
 
 var mapnik    = require('mapnik')
-  , mercator  = require('mapnik/sphericalmercator')
+  , mercator  = require('mapnik/lib/sphericalmercator')
   , connect   = require('connect')
   , redis_lib = require('redis')
   , redis     = redis_lib.createClient(6379, '127.0.0.1', {return_buffers: true})

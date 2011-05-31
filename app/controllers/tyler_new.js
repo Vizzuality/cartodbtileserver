@@ -6,7 +6,7 @@
 
 
 var mapnik    = require('mapnik')
-  , mercator  = require('mapnik/sphericalmercator')
+  , mercator  = require('mapnik/lib/sphericalmercator')
   , connect   = require('connect')
   , _         = require('underscore')
   , path      = require('path')
